@@ -14,8 +14,7 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
 
-<img width="1359" height="729" alt="Screenshot 2026-10-22 160807" src="https://github.com/user-attachments/assets/14fe82b0-f19a-4891-89cc-455999a29849" />
-
+<img width="1359" height="729" alt="Screenshot 2026-10-22 161724" src="https://github.com/user-attachments/assets/06f713ad-017d-42ec-9178-41eed9558cd3" />
 
 
  Description:<br>
