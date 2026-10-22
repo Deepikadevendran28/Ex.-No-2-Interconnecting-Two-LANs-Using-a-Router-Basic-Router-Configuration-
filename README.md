@@ -13,6 +13,11 @@ ________________________________________
 •	Straight-through cables<br>
 ________________________________________
 # Network Topology Diagram
+
+<img width="1359" height="729" alt="Screenshot 2026-10-22 160807" src="https://github.com/user-attachments/assets/67f4657f-c69b-4fa0-b0e7-3e9333becf85" />
+
+
+
  Description:<br>
 •	PC0 → Switch0 → Router (FastEthernet0/0)<br>
 •	PC1 → Switch1 → Router (FastEthernet0/1)<br>
@@ -52,9 +57,19 @@ Router(config-if)# ip address 192.168.2.1 255.255.255.0<br>
 Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
-•	Router CLI configuration<br>
-•	IP configurations on PCs<br>
-•	Successful ping between PC0 and PC1<br>
+
+<img width="1359" height="729" alt="Screenshot 2026-10-22 155835" src="https://github.com/user-attachments/assets/aed1f937-641b-4415-b1ba-5b391ca9535d" />
+
+<img width="1359" height="729" alt="Screenshot 2026-10-22 155843" src="https://github.com/user-attachments/assets/e83e055c-674c-434c-968e-8b4a0cd44bd1" />
+
+<img width="1359" height="729" alt="Screenshot 2026-10-22 155847" src="https://github.com/user-attachments/assets/8c76e8d4-3cc3-4443-8859-0f345f960f61" />
+
+<img width="1359" height="729" alt="Screenshot 2026-10-22 155852" src="https://github.com/user-attachments/assets/d1d28e8e-c355-48a0-beb1-18f21482825c" />
+
+<img width="1359" height="729" alt="Screenshot 2026-10-22 155856" src="https://github.com/user-attachments/assets/eafe5d78-8697-412a-9ecf-c5e6243a6e30" />
+
+<img width="1359" height="729" alt="Screenshot 2026-10-22 155106" src="https://github.com/user-attachments/assets/b80807e9-57aa-49fe-8d2f-5cc2c70e1ba6" />
+
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
